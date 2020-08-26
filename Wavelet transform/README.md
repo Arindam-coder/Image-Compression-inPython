@@ -1,4 +1,5 @@
 ## Image Compression using Wavelets Transformation
+In this folder I have done Wavelet Transformation of Images. Go to the Jupyter Notebook for the Codes.
 
 To get the basic ideas of DWT 
 you can follow this video: https://youtu.be/kECcPq-aUrI
